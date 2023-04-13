@@ -17,6 +17,6 @@ The Fibonacci sequence first appears in the book Liber Abaci (The Book of Calcul
 
 The algorithm for computing Fibonacci numbers presented here uses an approach known as dynamic programming. Dynamic programming is the process of solving subproblems, then combining the solutions of the subproblems to obtain an overall solution. This naturally leads to a recursive solution. However, it would be inefficient to use recursion, because the subproblems overlap. The key idea behind dynamic programming is to solve each subproblem only once and store the results for subproblems for later use to avoid redundant computing of the subproblems.
 
-Given java program implements the Fibonacci algorithm and runs the as following:
+Given java program implements the Fibonacci algorithm and runs the demo as following:
 
 ![image](https://user-images.githubusercontent.com/24220136/231650188-e321e2b4-e96d-40eb-b5e9-6f3ba0fd8626.png)
